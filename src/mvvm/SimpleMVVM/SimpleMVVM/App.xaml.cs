@@ -13,7 +13,7 @@ namespace SimpleMVVM
         {
             InitializeComponent();
 
-            MainPage = new SimpleMVVM.MainPage();
+            MainPage = new SimpleMVVM.Views.MainPage();
         }
 
         protected override void OnStart()

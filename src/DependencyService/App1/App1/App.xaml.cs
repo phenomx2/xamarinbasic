@@ -13,7 +13,7 @@ namespace App1
         {
             InitializeComponent();
 
-            MainPage = new App1.MainPage();
+            MainPage = new App1.PicturePicker();
         }
 
         protected override void OnStart()
